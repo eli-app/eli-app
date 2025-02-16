@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A fullstack developer in the making @ Yrgo</h3>
 
-
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL, C# and node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/appelqvistelias?tab=repositories](https://github.com/appelqvistelias?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/appelqvistelias?tab=repositories)
 
 - 💬 Ask me about **Gym training, huge single player RPG games and nature**
 

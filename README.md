@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
-<h3 align="center">A fullstack developer in the making @ Yrgo</h3>
+<h1>Hi 👋, I'm Elias</h1>
+<h3>A fullstack developer in the making @ Yrgo</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL, C# and node.js**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/appelqvistelias?tab=repositories)
 
-- 💬 Ask me about **Gym training, huge single player RPG games and nature**
+- 💬 Ask me about **gym training, huge single player RPG games and nature**
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/appelqvistelias?tab=repositories)
 
-- 💬 Ask me about **gym training, huge single player RPG games and nature**
+- 💬 Ask me about **gym training, Magic: The Gathering, huge single player RPG games and nature**
 
 
 <h3 align="left">Languages and Tools:</h3>

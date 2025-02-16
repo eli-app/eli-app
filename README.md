@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Elias</h1>
-<h3>A fullstack developer in the making @ Yrgo</h3>
+<h3>A fullstack developer in the making @ [Yrgo](https://www.yrgo.se)</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL, C# and node.js**
 

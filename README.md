@@ -2,7 +2,7 @@
 <h3>A fullstack developer in the making @ Yrgo</h3>
 <p>Formerly a mathematics and science teacher, now on an exciting journey to become a full-stack web developer! With a passion for problem-solving and logical thinking, I’m diving deep into coding, eager to build sleek, efficient, and user-friendly applications. Learning every day and loving the challenge!</p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, PHP, SQL, C# and node.js**
+- 🌱 I’m currently learning **Laravel, C# and WordPress**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/appelqvistelias?tab=repositories)
 

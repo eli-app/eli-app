@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working with **AI prompting, Rust and PostgreSQL**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/appelqvistelias?tab=repositories)!
+- 👨‍💻 All of my projects are available [here](https://github.com/eli-app?tab=repositories)!
 
 - 💬 Ask me about **gym training, Magic: The Gathering, huge single player RPG games and nature**
 

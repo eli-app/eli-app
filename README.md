@@ -4,10 +4,10 @@
 ### 🛠 Languages & Tools
 
 **Languages:**  
-C#, JavaScript, TypeScript, PHP, HTML, CSS
+JavaScript, TypeScript, PHP, HTML, CSS, C#
 
 **Frameworks & Libraries:**  
-.NET, React, Next.js, Laravel, Node.js, Inertia.js
+React, Next.js, Laravel, Node.js, Inertia.js, .NET
 
 **Databases:**  
 Oracle Database (SQL), PostgreSQL, MySQL, SQLite
